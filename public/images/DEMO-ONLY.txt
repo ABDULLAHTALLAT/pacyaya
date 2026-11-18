@@ -1,0 +1,3 @@
+The photos in this folder are placeholders used for a private client presentation.
+Replace them with images you own or have licensed before the site goes public.
+Keep the same file names and the site picks the new ones up automatically.
